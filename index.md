@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Drawing Application Project](/drawing_app)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/drawingApp-coverImage.jpg?raw=true"/>
 
 ---
 [M&M Game Project](/pdf/sample_presentation.pdf)
