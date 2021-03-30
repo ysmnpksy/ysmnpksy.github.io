@@ -9,7 +9,7 @@
 <img src="images/drawingApp-coverImage.jpg"/>
 
 ---
-[M&M Game Project](/game_project)
+[M&M Game Project](/m&m_game)
 
 <img src="images/m&mGame-coverImage.png"/>
 
