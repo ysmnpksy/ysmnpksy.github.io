@@ -11,6 +11,8 @@ You can find our project report and progress log [here](pdf/DrawingAppReport.pdf
 
 ### Demo
 
+You can try yourself [here](http://igor.gold.ac.uk/~ypaks001/drawingApp/).
+
 <img src="images/cloneDemo.gif"/>
 
 <img src="images/sprayDemo.gif"/>
