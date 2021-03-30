@@ -11,5 +11,4 @@ You can look at our proposal [here](pdf/SplitsyProjectProposal).
 ### Prototype
 During research for our implmentation we created a high-fidelity prototype on Adobe XD, which you can see [here](https://xd.adobe.com/view/38b5d39b-8a68-437c-ab58-d9a07ba6a6fe-6de6/?fullscreen&hints=off).
 
-<img src="images/Splitsy/signIn.png"/>   <img src="images/Splitsy/account.png"/>
-<img src="images/Splitsy/newBill.png"/>   <img src="images/Splitsy/createNewBill.png"/>
+<img src="images/SplitsyPrototype.jpg"/>
