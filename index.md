@@ -2,31 +2,20 @@
 
 ---
 
-### Category Name 1 
+### My Projects
 
 [Drawing Application Project](/drawing_app)
 <img src="images/drawingApp-coverImage.jpg"/>
 
 ---
-[M&M Game Project](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[M&M Game Project](/game_project)
+<img src="images/m&mGame-coverImage.png"/>
 
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
 
 
 
