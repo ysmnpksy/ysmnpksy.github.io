@@ -14,7 +14,7 @@ The results revealed that most of the participants approved the layout, colour s
 
 All the research, surveys and results have proved the importance and need of building a privacy focused and user-friendly application to enhance user experience.
 
-You can look at our proposal [here](pdf/SplitsyProjectProposal). 
+**You can look at our proposal [here](pdf/SplitsyProjectProposal). **
 
 ### Prototype
 During research for our implmentation we created a high-fidelity prototype on Adobe XD, which you can see [here](https://xd.adobe.com/view/38b5d39b-8a68-437c-ab58-d9a07ba6a6fe-6de6/?fullscreen&hints=off).
