@@ -19,4 +19,4 @@ You can look at our proposal [here](pdf/SplitsyProjectProposal).
 ### Prototype
 During research for our implmentation we created a high-fidelity prototype on Adobe XD, which you can see [here](https://xd.adobe.com/view/38b5d39b-8a68-437c-ab58-d9a07ba6a6fe-6de6/?fullscreen&hints=off).
 
-<img src="images/SplitsyPrototype.jpg"/>
+<img src="images/SplitsyPrototype2.jpg"/>
