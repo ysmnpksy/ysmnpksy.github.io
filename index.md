@@ -6,7 +6,9 @@
 
 [Splitsy: Bill Splitting Application Proposal](/splitsy)
 
+<img scr="images/"/>
 
+---
 
 [Drawing Application Project](/drawing_app)
 
