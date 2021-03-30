@@ -1,12 +1,20 @@
 ## Drawing Application Project 
 
-### Project description:
+### Project description
 During my first year at university, working in a pair, we made a drawing application using JavaScript and the p5.js library. 
 
 You can find the code on [my GitHub](https://github.com/ysmnpksy/drawing_application).
 
+### Demo
 
+<img src="images/cloneDemo.gif"/>
 
-### Project Report: 
+<img src="images/cloneDemo.gif"/>
+
+<img src="images/cloneDemo.gif"/>
+
+<img src="images/cloneDemo.gif"/>
+
+### Project Report
 
 You can find our project report and progress log [here](pdf/DrawingAppReport.pdf).
