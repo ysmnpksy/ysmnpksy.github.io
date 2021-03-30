@@ -6,7 +6,7 @@ You can find the code on [my GitHub](https://github.com/ysmnpksy/drawing_applica
 
 ### 1. Project Report 
 
-You can find our project report and progress log [here](.pdf/DrawingAppReport.pdf).
+You can find our project report and progress log [here](pdf/DrawingAppReport.pdf).
 
 ```javascript
 if (isAwesome){
