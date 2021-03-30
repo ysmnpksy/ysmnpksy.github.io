@@ -5,14 +5,17 @@
 ### My Projects
 
 [Drawing Application Project](/drawing_app)
+
 <img src="images/drawingApp-coverImage.jpg"/>
 
 ---
 [M&M Game Project](/game_project)
+
 <img src="images/m&mGame-coverImage.png"/>
 
 ---
 [Project 3 Title](http://example.com/)
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
