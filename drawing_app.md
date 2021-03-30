@@ -9,11 +9,11 @@ You can find the code on [my GitHub](https://github.com/ysmnpksy/drawing_applica
 
 <img src="images/cloneDemo.gif"/>
 
-<img src="images/cloneDemo.gif"/>
+<img src="images/sprayDemo.gif"/>
 
-<img src="images/cloneDemo.gif"/>
+<img src="images/kalidoscopeDemo.gif"/>
 
-<img src="images/cloneDemo.gif"/>
+<img src="images/mirrorDemo.gif"/>
 
 ### Project Report
 
