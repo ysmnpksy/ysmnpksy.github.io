@@ -5,6 +5,10 @@ During my first year at university, working in a pair, we made a drawing applica
 
 You can find the code on [my GitHub](https://github.com/ysmnpksy/drawing_application).
 
+### Project Report
+
+You can find our project report and progress log [here](pdf/DrawingAppReport.pdf).
+
 ### Demo
 
 <img src="images/cloneDemo.gif"/>
@@ -14,7 +18,3 @@ You can find the code on [my GitHub](https://github.com/ysmnpksy/drawing_applica
 <img src="images/kalidoscopeDemo.gif"/>
 
 <img src="images/mirrorDemo.gif"/>
-
-### Project Report
-
-You can find our project report and progress log [here](pdf/DrawingAppReport.pdf).
