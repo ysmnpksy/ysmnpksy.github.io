@@ -1,31 +1,19 @@
 ## M&M Game
 
-**Project description:** I made this game inspired by M&M's using JavaScript and the p5.js library. 
+### Project description
+During my first year at university, I made this game inspired by M&M's using JavaScript and the p5.js library. 
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+Play yourself [here](http://igor.gold.ac.uk/~ypaks001/FinalGameProject/).
+You can find the code on my [GitHub](https://github.com/ysmnpksy/m-m_game).
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+### Project Report
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+You can find our project report and progress log [here](pdf/DrawingAppReport.pdf).
 
-### 2. Assess assumptions on which statistical inference will be based
+### Demo
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+You can have a play yourself [here](http://igor.gold.ac.uk/~ypaks001/FinalGameProject/).
 
-### 3. Support the selection of appropriate statistical tools and techniques
+<img src="images/m&m1.gif"/>
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<img src="images/m&m2.gif"/>
