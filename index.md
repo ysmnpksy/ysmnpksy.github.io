@@ -4,6 +4,10 @@
 
 ### My Projects
 
+[Splitsy: Bill Splitting Application Proposal](/splitsy)
+
+
+
 [Drawing Application Project](/drawing_app)
 
 <img src="images/drawingApp-coverImage.jpg"/>
