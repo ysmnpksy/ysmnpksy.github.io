@@ -13,8 +13,6 @@ You can find our project report and progress log [here](pdf/DrawingAppReport.pdf
 
 ### Demo
 
-You can have a play yourself [here](http://igor.gold.ac.uk/~ypaks001/FinalGameProject/).
-
 <img src="images/m&m1.gif"/>
 
 <img src="images/m&m2.gif"/>
