@@ -20,7 +20,7 @@
 <img src="images/m&mGame-coverImage.png"/>
 
 ---
-[Westeros Park Website](westeros)
+[Westeros Park Website](/westerosPark)
 
 <img src="images/Westeros-coverImage.png?raw=true"/>
 
