@@ -22,7 +22,7 @@
 ---
 [Westeros Park Website](westeros)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Westeros-coverImage.png?raw=true"/>
 
 ---
 
