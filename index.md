@@ -22,7 +22,7 @@
 ---
 [Baking Bad Website](/baking_bad)
 
-<img scr="images/bakingBad-coverImage.png"/>
+<img scr="images/bakingBad-coverImage.jpg"/>
 
 ---
 [Westeros Park Website](/westerosPark)
