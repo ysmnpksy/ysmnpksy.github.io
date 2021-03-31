@@ -3,7 +3,7 @@
 ### Project description
 During my second year at university, myself and a team of students worked on a project proposal for a bill splitting application 'Splitsy'.
 
-**You can look at our proposal [here](pdf/SplitsyProjectProposal).**
+**You can look at our proposal [here](pdf/SplitsyProjectProposal.pdf).**
 
 We are currently working on the implmentation of this project. 
 
