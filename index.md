@@ -26,6 +26,10 @@
 
 ---
 
+### Smaller Projects 
+
+- [Password Generator](https://github.com/ysmnpksy/passwordGenerator)
+
 
 
 ---
