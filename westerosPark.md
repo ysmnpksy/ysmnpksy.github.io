@@ -5,6 +5,6 @@ During my first year at university, working in a team, we made a website for a t
 
 ### The Website 
 
-**Click [here](http://igor.gold.ac.uk/~ypaks001/westerosPark/index.html) to go to the website.**
+Click [here](http://igor.gold.ac.uk/~ypaks001/westerosPark/index.html) to go to the website.
 
 <img src="images/westeros.gif"/>
