@@ -10,12 +10,6 @@
 
 ---
 
-[Calorie Buddy Web App](/calorie_buddy)
-
-<img src="images/calorieBuddy-coverImage.jpg"/>
-
----
-
 [Drawing Application Project](/drawing_app)
 
 <img src="images/drawingApp-coverImage.jpg"/>
