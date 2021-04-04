@@ -36,7 +36,7 @@
 
 ---
 
-### Smaller Projects 
+### Other Projects 
 
 - [Password Generator](https://github.com/ysmnpksy/passwordGenerator)
 
