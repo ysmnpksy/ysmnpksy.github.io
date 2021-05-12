@@ -22,13 +22,6 @@ Grade: Pending
 
 ---
 
-[To-Do List Application](/todolist)
-2021
-
-Grade: Pending 
-
----
-
 [Drawing Application Project](/drawing_app)
 2020
 
