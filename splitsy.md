@@ -3,9 +3,9 @@
 ### Project description
 During my second year at university, myself and a team of students worked on a project proposal for a bill splitting application 'Splitsy'.
 
-**You can look at our proposal [here](pdf/SplitsyProjectProposal.pdf).**
+We first worked on the initial project proposal, which you can review [here](pdf/SplitsyProjectProposal.pdf). For this report our grade was 100%. 
 
-We are currently working on the implmentation of this project. 
+We then worked on the implementation can be found [here](https://github.com/ysmnpksy/Splitsy). We also wrote a report to outline the implementation process, which you can review [here](pdf/SplitsyProject.pdf).
 
 ### Report Abstract
 Online payment applications are very useful as people can make payments in an efficient and systematic way. In a world more and more focused on privacy we have noticed a lack of bill splitting applications privacy orientated. The purpose of the project was to plan, analyse and gather information to build a secure and user-friendly bill-splitting application. The proposal also focuses on design as well, with the use of techniques that would improve the overall system security and reliability.
