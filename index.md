@@ -18,6 +18,8 @@ Proposal Grade: 100%
 
 Grade: Pending
 
+<img src="images/calorieBuddy-coverImage.jpg"/>
+
 ---
 
 [To-Do List Application](/todolist)
