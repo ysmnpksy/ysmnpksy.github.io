@@ -12,4 +12,4 @@ Click [here](http://igor.gold.ac.uk/~ypaks001/BakingBad/) to go to the website.
 
 ### Project Report 
 
-You can find the report for this project [here](http://igor.gold.ac.uk/~ypaks001/WebDevelopmentCoursework/report.html).
+You can find the report for this project [here](http://igor.gold.ac.uk/~ypaks001/BakingBad/report.html).
