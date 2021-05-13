@@ -1,8 +1,7 @@
 ## Portfolio
+### My Projects
 
 ---
-
-### My Projects
 
 [Splitsy: Bill Splitting Application](/splitsy)
 2020-2021
@@ -31,18 +30,21 @@ Grade: Pending
 Grade: 83%
 
 ---
+
 [M&M Game Project](/m&m_game)
 2019
 
 Grade: 94%
 
 ---
+
 [Baking Bad Website](/baking_bad)
 2019
 
 Grade: 78%
 
 ---
+
 [Westeros Park Website](/westerosPark)
 2019
 
@@ -55,5 +57,3 @@ Grade: 100%
 - [Password Generator](https://github.com/ysmnpksy/passwordGenerator)
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
