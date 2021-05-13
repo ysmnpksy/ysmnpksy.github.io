@@ -1,6 +1,9 @@
 ## M&M Game
 
 ### Project description
+
+Grade: 94%
+
 During my first year at university, I made this game inspired by M&M's using JavaScript and the p5.js library. 
 
 ### Access Project
