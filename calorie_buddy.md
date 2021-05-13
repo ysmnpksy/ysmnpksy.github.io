@@ -2,6 +2,8 @@
 
 ### Project Description 
 
+Grade: Pending
+
 During my second year at university, I developed a dynamic web application using JavaScript, Node.js, and Express.js.
 
 This web app uses MongoDB to store nutritional information about food items, allowing users to add items to help calculate their calorie intake.  
