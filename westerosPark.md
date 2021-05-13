@@ -1,6 +1,9 @@
 ## Westeros Park
 
 ### Project Description
+
+Grade: 100%
+
 During my first year at university, working in a team, we made a website for a theme park inspired by the TV show Game Of Thrones. 
 
 ### Access Project 
