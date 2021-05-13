@@ -4,7 +4,7 @@
 
 This site is a recipe website inspired by the tv show Breaking Bad. All of the recipes and drinks are ones that are were either made on the show, such as Walt's Birthday Platter, or are inspired by the scenes on the show, such as Walt's Burried Barrel Cake. 
 
-### The Website
+### Access Project
 
 Click [here](http://igor.gold.ac.uk/~ypaks001/BakingBad/) to go to the website.
 
