@@ -6,7 +6,8 @@
 [Splitsy: Bill Splitting Application](/splitsy)
 2020-2021
 
-Proposal Grade: 100% | Implementation Grade: Pending
+Proposal Grade: 100% 
+Implementation Grade: Pending
 
 ---
 
