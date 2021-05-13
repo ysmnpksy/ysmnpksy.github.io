@@ -1,6 +1,9 @@
 ## Drawing Application Project 
 
 ### Project description
+
+Grade: 83%
+
 During my first year at university, working in a pair, we made a drawing application using JavaScript and the p5.js library. 
 
 ### Access Project
