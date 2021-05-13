@@ -8,7 +8,7 @@
 
 Proposal Grade: 100% 
 
-Implementation Grade: Pending
+Project Grade: Pending
 
 ---
 
