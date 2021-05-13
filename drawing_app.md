@@ -3,6 +3,8 @@
 ### Project description
 During my first year at university, working in a pair, we made a drawing application using JavaScript and the p5.js library. 
 
+### Access Project
+
 You can try the application yourself [here](http://igor.gold.ac.uk/~ypaks001/drawingApp/).
 
 You can find the code on my [GitHub](https://github.com/ysmnpksy/drawing_application).
