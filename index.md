@@ -13,6 +13,12 @@ Proposal Grade: 100%
 
 ---
 
+[To-Do List Program](/todo_list)
+
+Grade: Pending 
+
+---
+
 [Calorie Buddy Dynamic Web Application](/calorie_buddy)
 2021
 
