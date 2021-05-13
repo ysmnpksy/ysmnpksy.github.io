@@ -1,13 +1,18 @@
 ## Splitsy Project Proposal 
 
 ### Project description
+
+Proposal Grade: 100% 
+
+Project Grade: Pending
+
 During my second year at university, myself and a team of students worked on a project proposal for a bill splitting application 'Splitsy'.
 
-We first worked on the initial project proposal, which you can review [here](pdf/SplitsyProjectProposal.pdf). For this report our grade was 100%. 
+We first worked on the initial project proposal, which you can review [here](pdf/SplitsyProjectProposal.pdf). 
 
 We then worked on the implementation can be found [here](https://github.com/ysmnpksy/Splitsy). We also wrote a report to outline the implementation process, which you can review [here](pdf/SplitsyProject.pdf).
 
-### Report Abstract
+### Proposal Report Abstract
 Online payment applications are very useful as people can make payments in an efficient and systematic way. In a world more and more focused on privacy we have noticed a lack of bill splitting applications privacy orientated. The purpose of the project was to plan, analyse and gather information to build a secure and user-friendly bill-splitting application. The proposal also focuses on design as well, with the use of techniques that would improve the overall system security and reliability.
 
 We have explored the existing bill splitting applications, their features, weaknesses, and possible solutions. Additionally, we researched about demographics and the different types of data related to the subject. Important design methods such as UML and use cases were also analysed along several relevant tools and technologies needed for the development of this app. Online surveys were conducted on different stages in order to gather vital information and timed tests to measure app’s navigation, accessibility, and functionality.
