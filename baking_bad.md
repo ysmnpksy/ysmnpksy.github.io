@@ -2,6 +2,8 @@
 
 ### Project Description
 
+Grade: 78%
+
 This site is a recipe website inspired by the tv show Breaking Bad. All of the recipes and drinks are ones that are were either made on the show, such as Walt's Birthday Platter, or are inspired by the scenes on the show, such as Walt's Burried Barrel Cake. 
 
 ### Access Project
