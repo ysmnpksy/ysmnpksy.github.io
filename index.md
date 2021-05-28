@@ -22,7 +22,7 @@ Grade: Pending
 [Calorie Buddy Dynamic Web Application](/calorie_buddy)
 2021
 
-Grade: Pending 
+Grade: 94%
 
 ---
 
