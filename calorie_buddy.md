@@ -2,7 +2,7 @@
 
 ### Project Description 
 
-Grade: Pending
+Grade: 94% 
 
 During my second year at university, I developed a dynamic web application using JavaScript, Node.js, and Express.js.
 
