@@ -4,7 +4,7 @@
 
 Proposal Grade: 100% 
 
-Project Grade: Pending
+Project Grade: 94% 
 
 During my second year at university, myself and a team of students worked on a project proposal for a bill splitting application 'Splitsy'.
 
