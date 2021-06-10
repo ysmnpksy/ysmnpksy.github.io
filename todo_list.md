@@ -2,7 +2,7 @@
 
 ### Project Description 
 
-Grade: Pending
+Grade: 80% 
 
 During my second year at university, I developed a to-do list program using Java.
 
