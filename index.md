@@ -8,14 +8,14 @@
 
 Proposal Grade: 100% 
 
-Project Grade: Pending
+Project Grade: 94% 
 
 ---
 
 [To-Do List Program](/todo_list)
 2021
 
-Grade: Pending 
+Grade: 80%  
 
 ---
 
