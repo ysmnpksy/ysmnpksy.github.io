@@ -2,8 +2,9 @@ title: Yasmin Paksoy # your name (or website title) here
 logo: "/images/mePortCircle.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
-  Hi, I'm Yasmin, an ambitious third year computer science undergrad at Goldsmiths, University of London, where I am currently studying AI and Neural Networks while I work on my final project on deep learning with natural laguage processing. 
+  Hi, I'm Yasmin, an ambitious third year computer science undergrad at Goldsmiths, University of London. 
   <br><br>
+  This portfolio is now outdated, view the updated version [here](https://yaspaksoy.notion.site/).
   <a href="https://www.linkedin.com/in/yasmin-paksoy/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
