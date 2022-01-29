@@ -4,7 +4,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   Hi, I'm Yasmin, an ambitious third year computer science undergrad at Goldsmiths, University of London. 
   <br><br>
-  This portfolio is now outdated, view the updated version [here](https://yaspaksoy.notion.site/).
+  This portfolio is now outdated, view the <a href="https://yaspaksoy.notion.site/">updated version here</a>.
+  <br><br>
   <a href="https://www.linkedin.com/in/yasmin-paksoy/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
